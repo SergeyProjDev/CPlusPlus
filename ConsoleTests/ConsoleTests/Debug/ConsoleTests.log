@@ -1,2 +1,2 @@
 ﻿  ConsoleTests.cpp
-  ConsoleTests.vcxproj -> C:\Users\Sergey\Desktop\Projects\CPlusPlus\ConsoleTests\Debug\ConsoleTests.exe
+c:\users\sergey\desktop\projects\cplusplus\consoletests\consoletests\consoletests.cpp(13): error C3141: IHello: интерфейсы поддерживают наследование только открытых методов
